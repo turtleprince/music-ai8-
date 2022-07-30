@@ -1,0 +1,19 @@
+.NOTE
+{
+    font-size: 24.9px;
+    color: #1eaec7;
+}
+
+#play
+{
+    width: 150px;
+    font-size: 25px;
+}
+
+canvas
+{
+   
+    border: 10px solid red;
+    border-radius: 15px;
+    
+}
